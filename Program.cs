@@ -7,6 +7,8 @@ namespace daves_log
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Dave!");
+
+            Console.WriteLine("This is ground control to Major Tom.");
         }
     }
 }
