@@ -13,6 +13,9 @@ namespace daves_log
             Console.WriteLine("Printer is always out of????");
 
             Console.BackgroundColor = ConsoleColor.Yellow;
+
+            Console.WriteLine("Take your protein pills and put your helmet on");
+
         }
     }
 }
