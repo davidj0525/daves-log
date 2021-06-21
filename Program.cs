@@ -6,7 +6,7 @@ namespace daves_log
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Dave!");
         }
     }
 }
