@@ -10,6 +10,10 @@ namespace daves_log
 
             Console.WriteLine("This is ground control to Major Tom.");
 
+            Console.WriteLine("Printer is always out of????");
+
+            Console.BackgroundColor = ConsoleColor.Yellow;
+
             Console.WriteLine("Take your protein pills and put your helmet on");
 
         }
